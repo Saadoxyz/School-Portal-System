@@ -40,7 +40,7 @@ SCHOOL REGISTRATION PORTAL SYSTEM is a cross-platform mobile application built u
 
 ## 📸 Screenshots
 
-> See the `/screenshots/` directory or the PDF report for visuals of each module including login, homepage, notepad, timetable, AI assistant, and more.
+> See the Mobile_computing_Report.pdf for visuals of each module including login, homepage, notepad, timetable, AI assistant, and more.
 
 ---
 
@@ -49,7 +49,7 @@ SCHOOL REGISTRATION PORTAL SYSTEM is a cross-platform mobile application built u
 To run this app locally:
 
 ```bash
-git clone https://github.com/your-username/airacademia.git
+git clone https://github.com/Saadoxyz/School-Portal-System.git
 cd airacademia
 flutter pub get
 flutter run
@@ -96,5 +96,5 @@ For support, queries, or feedback:
 
 ---
 
-Let me know if you’d like me to format this into a downloadable `.md` file or help create a live GitHub repo with assets.
+Let me know if you has any query related to it
 ```
